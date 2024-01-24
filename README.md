@@ -32,10 +32,9 @@ Welcome to the Pizza Sales Analysis project, where I showcase my data analysis s
 
 ## Project Showcase:
 
-![Pizza Sales Dashboard 1] https://github.com/Ashutosh-Ojha/Pizza_Sales_Analysis/blob/master/Dashboard%201.png
+![Pizza Sales Dashboard 1](https://github.com/Ashutosh-Ojha/Pizza_Sales_Analysis/blob/master/Dashboard%201.png)
 
-![Pizza Sales Dashboard 2]
-![Alt text](image-1.png)
+![Pizza Sales Dashboard 2](https://github.com/Ashutosh-Ojha/Pizza_Sales_Analysis/blob/master/Dashboard%202.png)
 
 ## Usage:
 
